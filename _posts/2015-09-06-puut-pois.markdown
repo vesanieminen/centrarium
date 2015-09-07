@@ -3,7 +3,7 @@ layout: post
 title:  "Puut pois"
 description: Ensimmäinen konkreettinen edistymisaskel kohti talon rakentamista
 categories: 2015-09-syyskuu
-cover:  "assets/metsurit_blur.jpg"
+cover:  "assets/metsurit.jpg"
 ---
 
 Tänä viikonloppuna tontilla alkoi vihdoin tapahtua. Metsurit saapuivat lauantaina paikalle klo 8:15, kun olin vaimon kanssa merkkaamassa pari puuta, jotka halusimme säästää.
