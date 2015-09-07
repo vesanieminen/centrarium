@@ -13,7 +13,7 @@ name: Vesa Nieminen
 description: > 
   Tarinaa yksikerroksisen 121m² puutalon rakentamisesta Kaarinaan
 baseurl: "/talorojekti/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "talorojekti.vesanieminen.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 #logo: "assets/logo.png"
 
@@ -40,10 +40,10 @@ ga_tracking_id: "UA-67250864-1"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: 2015-syyskuu
+  - cat: 2015-09-syyskuu
     desc: ""
 
-  - cat: 2015-elokuu
+  - cat: 2015-08-elokuu
     desc: ""
 
 # Social icons and sharing options

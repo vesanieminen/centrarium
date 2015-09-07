@@ -3,8 +3,7 @@ layout: post
 title:  "Testi"
 date:   2015-04-18 08:43:59
 author: Ben Centra
-categories: taustaa
-tags:	syyskuu
+categories: 2015-09-syyskuu
 cover:  "assets/pohja_orig.png"
 ---
 
