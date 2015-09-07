@@ -12,7 +12,7 @@ email: email@vesanieminen.com
 name: Vesa Nieminen
 description: > 
   Tarinaa yksikerroksisen 121m² puutalon rakentamisesta Kaarinaan
-baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
+baseurl: "/talorojekti/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 #logo: "assets/logo.png"
@@ -102,7 +102,7 @@ social:
 
   - name: Google+
     icon: google-plus
-    username: 102863562871172858236
+    username: vesa.nieminen 
     url: https://plus.google.com/102863562871172858236
     desc: Add me to your Circles
     share_url: //plus.google.com/share
