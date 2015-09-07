@@ -3,7 +3,7 @@ gems:
 #  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
 
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 
 # Site settings
 title: Talorojekti
@@ -36,15 +36,15 @@ paginate_path: "/page:num/"
 disqus_shortname: talorojekti
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-67250864-1"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: 2015-syyskuu
+    desc: ""
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: 2015-elokuu
+    desc: ""
 
 # Social icons and sharing options
 #
@@ -66,26 +66,26 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: "@TheBenCentra"
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+    username: "@vesanieminen"
+    url: https://twitter.com/vesanieminen
+    desc: Seuraa minua Twitterissä
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url: 
-    desc: Friend me on Facebook
+    username: vesa.nieminen
+    url: https://www.facebook.com/vesa.nieminen
+    desc: Pyydä minua kaveriksi
     share_url: //www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: vesanieminen
+    url: https://github.com/vesanieminen
     desc: Fork me on GitHub
     share_url:
     share_title:
@@ -93,8 +93,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: vnieminen
+    url: https://fi.linkedin.com/in/vnieminen
     desc: Connect with me on LinkedIn
     share_url: //www.linkedin.com/shareArticle
     share_title: ?mini=true
@@ -102,8 +102,8 @@ social:
 
   - name: Google+
     icon: google-plus
-    username: 
-    url: 
+    username: 102863562871172858236
+    url: https://plus.google.com/102863562871172858236
     desc: Add me to your Circles
     share_url: //plus.google.com/share
     share_title: ?title=
