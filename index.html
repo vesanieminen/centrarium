@@ -42,15 +42,6 @@ layout: default
             {% endcase %}          
             {{ post.date | date: "%Y" }} 
         </div>
-    	<div class="post-categories">
-    	{% if post.categories %} {% for cat in post.categories %}
-    	  {% if site.jekyll-archives %}
-    		<a href="{{ site.baseurl }}category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-    	  {% else %}
-    	  <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-    	  {% endif %}
-    	{% endfor %}{% endif %}
-    	</div>
     </section>
   </li>
   {% if forloop.last == false %}
