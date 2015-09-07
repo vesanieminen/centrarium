@@ -18,8 +18,8 @@ layout: default
 
 <section class="post-meta">
 	<div class="post-date">
-            {% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d" }}   
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }}   
             {% case m %}           
               {% when '1' %}Tammikuuta        
               {% when '2' %}Helmikuuta        
@@ -34,7 +34,7 @@ layout: default
               {% when '11' %}Marraskuuta      
               {% when '12' %}Joulukuuta       
             {% endcase %}          
-            {{ post.date | date: "%Y" }} 
+            {{ page.date | date: "%Y" }} 
     </div>
 </section>	
 
