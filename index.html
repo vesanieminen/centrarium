@@ -23,7 +23,25 @@ layout: default
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </section>
     <section class="post-meta">
-    	<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+    	<div class="post-date">
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d" }}   
+            {% case m %}           
+              {% when '1' %}Tammikuuta        
+              {% when '2' %}Helmikuuta        
+              {% when '3' %}Maaliskuuta       
+              {% when '4' %}Huhtikuuta        
+              {% when '5' %}Toukokuuta        
+              {% when '6' %}Kesäkuuta         
+              {% when '7' %}Heinäkuuta        
+              {% when '8' %}Elokuuta          
+              {% when '9' %}Syyskuuta         
+              {% when '10' %}Lokakuuta        
+              {% when '11' %}Marraskuuta      
+              {% when '12' %}Joulukuuta       
+            {% endcase %}          
+            {{ post.date | date: "%Y" }} 
+        </div>
     	<div class="post-categories">
     	{% if post.categories %}in {% for cat in post.categories %}
     	  {% if site.jekyll-archives %}
