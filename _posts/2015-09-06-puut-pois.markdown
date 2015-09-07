@@ -8,7 +8,7 @@ cover:  "assets/metsurit_blur.jpg"
 
 Tänä viikonloppuna tontilla alkoi vihdoin tapahtua. Metsurit saapuivat lauantaina paikalle klo 8:15, kun olin vaimon kanssa merkkaamassa pari puuta, jotka halusimme säästää.
 
-<a href="http://vesanieminen.github.io/talorojekti/assets/images/puut_pois.jpg" data-lightbox="falcon9-large" data-title="Puut poistettu">
-  <img src="http://vesanieminen.github.io/talorojekti/assets/images/puut_pois_small.jpg" title="Puut poistettu">
+<a href="http://vesanieminen.github.io/talorojekti/assets/puut_pois.jpg" data-lightbox="falcon9-large" data-title="Puut poistettu">
+  <img src="http://vesanieminen.github.io/talorojekti/assets/puut_pois_small.jpg" title="Puut poistettu">
 </a>
 
