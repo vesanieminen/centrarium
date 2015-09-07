@@ -2,6 +2,7 @@
 layout: post
 title:  "Puut pois"
 description: Ensimmäinen konkreettinen edistymisaskel kohti talon rakentamista
+date: 2015-09-06
 categories: 2015-09-syyskuu
 cover:  "assets/metsurit.jpg"
 ---
